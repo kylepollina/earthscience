@@ -2,20 +2,6 @@
 This page contains resources for those wanting to explore earth science through data.
 Feel free to contribute anything you find and want to share!
 
-#### Contents
-
-  1. [Datasets](#datasets)
-  2. [Notebooks](#notebooks)
-  3. [Libraries/Organizations](#libraries)
-  4. [Other Links](#links)
-
------------
-
-## Datasets
-Please follow the guidlines for posting datasets:
-
-- Link to Dataset - Single sentence description of dataset
-
 #### Sections
 
   1. [NOAA](#noaa)
@@ -25,7 +11,6 @@ Please follow the guidlines for posting datasets:
   5. [Map Data](#map-data)
   6. [Other](#other)
   
-
 ### NOAA
 Datasets officially released by the United States National Oceanic and Atmospheric Administration (NOAA)
 
@@ -116,16 +101,10 @@ Datasets officially released by the United Nations
 - [NYS Energy Prices](https://www.kaggle.com/new-york-state/nys-energy-prices) - New York Energy Prices presents retail energy price data
 - [NYS Nursery Growers and Greenhouse](https://www.kaggle.com/new-york-state/nys-nursery-growers-and-greenhouse) - A listing of all certified nursery growers and greenhouses which are licensed by the Department of Agriculture and Markets
 
-
------------
-
-
 ## Notebooks
 
 - [Getting Started With Bokeh Visualization](https://www.kaggle.com/parulpandey/recreating-gapminder-visualisation-with-bokeh)
 - [Introduction to geospatial vector data in Python](https://nbviewer.jupyter.org/github/ThomasatTUC/Geo-Data-Science/blob/master/Using%20Geo%20Data%20in%20Python.ipynb)
-
------------
 
 ## Libraries
 
@@ -159,8 +138,6 @@ Datasets officially released by the United Nations
 - [Industry Machine Learning](https://github.com/firmai/industry-machine-learning) -  A curated list of applied machine learning and data science notebooks and libraries across different industries
 - [PyPSA](https://github.com/PyPSA/PyPSA) - Python for Power System Analysis 
 - [Hitchiker's Guide to Python](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-
------------
 
 ## Links
 
@@ -231,6 +208,3 @@ Open Power System Data - https://open-power-system-data.org/
 
 FIRM AI - https://www.firmai.org/ 
 <br>- Open Business Analytics and Data Science Research 
-
-
------------

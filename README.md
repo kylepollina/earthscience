@@ -1,4 +1,8 @@
-# Resources
+# earthscience
+My earthscience studies
+
+## Resources
+
 This page contains resources for those wanting to explore earth science through data.
 Feel free to contribute anything you find and want to share!
 

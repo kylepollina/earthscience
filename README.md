@@ -2,20 +2,6 @@
 This page contains resources for those wanting to explore earth science through data.
 Feel free to contribute anything you find and want to share!
 
-#### Contents
-
-  1. [Datasets](#datasets)
-  2. [Notebooks](#notebooks)
-  3. [Libraries/Organizations](#libraries)
-  4. [Other Links](#links)
-
------------
-
-## Datasets
-Please follow the guidlines for posting datasets:
-
-- Link to Dataset - Single sentence description of dataset
-
 #### Sections
 
   1. [NOAA](#noaa)

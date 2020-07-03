@@ -1,10 +1,13 @@
 # earthscience
 My earthscience studies
 
-## Resources
+- [Birdspotting](birdspotting.md)
+- [Atmospheric Carbon Dioxide Analysis]()
+- [Earth Surface Temperature Analysis]()
 
-This page contains resources for those wanting to explore earth science through data.
-Feel free to contribute anything you find and want to share!
+----
+
+## Resources
 
 #### Sections
 

@@ -2,8 +2,8 @@
 My earthscience studies
 
 - [Birdspotting](birdspotting.md)
-- [Atmospheric Carbon Dioxide Analysis]()
-- [Earth Surface Temperature Analysis]()
+- [Atmospheric Carbon Dioxide Analysis](Atmospheric_CO2_Analysis/readme.md)
+- [Global Surface Temperature Analysis](Surface_Temperature_Analysis/readme.md)
 
 ----
 

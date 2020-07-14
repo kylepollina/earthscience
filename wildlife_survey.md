@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Red-winged_blackbird
 | :--- | :------
 | ![Male](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg) | ![Female](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)
 
-Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head
+Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head.
 Incredibly complicated tones, sounds like telephone bells.
 
 | sightings  | count | location

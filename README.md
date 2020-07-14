@@ -1,7 +1,7 @@
 # earthscience
 My earthscience studies
 
-- [Wildlife Survey](wildlife_survey.md)
+- [Wildlife Survey Summer 2020](wildlife_survey.md)
 - [Atmospheric Carbon Dioxide Analysis](Atmospheric_CO2_Analysis/readme.md)
 - [Global Surface Temperature Analysis](Surface_Temperature_Analysis/readme.md)
 

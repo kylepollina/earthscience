@@ -1,7 +1,7 @@
 # earthscience
 My earthscience studies
 
-- [Birdspotting](birdspotting.md)
+- [Wildlife Survey](wildlife_survey.md)
 - [Atmospheric Carbon Dioxide Analysis](Atmospheric_CO2_Analysis/readme.md)
 - [Global Surface Temperature Analysis](Surface_Temperature_Analysis/readme.md)
 

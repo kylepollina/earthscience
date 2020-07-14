@@ -3,6 +3,8 @@
 
 Wildlife survey for Arlington Heights Illinois
 
+All pictures taken from Wikipedia wikipediadia
+
 -------
 
 Great blue Heron
@@ -39,17 +41,49 @@ Incredibly complicated tones, sounds like telephone bells.
 
 -------
 
+Mallard
+
+https://en.wikipedia.org/wiki/Mallard
+
+| Female (left) Male (right) | Juveniles
+| :------------------------- | :--------
+| ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
+
+| sightings  | count | location
+| :--------- | :---- | :-------
+
+-------
+
+Blue Jay
+
+https://en.wikipedia.org/wiki/Blue_jay
+
+![Blue Jay](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)
+
+| sightings  | count | location
+| :--------- | :---- | :-------
+| 2020-07-06 | 1     | BG Golf Club
+
+-------
+
 Sleepy Orange Butterfly
 
 https://en.wikipedia.org/wiki/Eurema_nicippe
 
 ![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
+
 | sightings  | count | location
 | :--------- | :---- | :-------
 | 2020-06-27 | 1     | Centennial Park
 
+-------
 
-| 2020-06-27 | Mallard
+Blue Dasher
 
-| 2020-07-06     | 2020-06-27    | Blue Jay                |     |       | https://en.wikipedia.org/wiki/Blue_jay
+https://en.wikipedia.org/wiki/Blue_dasher
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
+
+| sightings  | count | location
+| :--------- | :---- | :-------
 

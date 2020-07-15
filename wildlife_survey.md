@@ -15,10 +15,12 @@ https://en.wikipedia.org/wiki/Great_blue_heron
 
 Wades on the shallow end of the bog, feeds on small fish
 
+Conservation status: Least concern
+
 | sightings   | count | location
 | :---------- | :---- | :-------
 |  2020-06-27 | 1     | Buffalo Creek
-|  2020-07-12 | 1     | Centennial Park
+|  2020-07-12 | 1     | Buffalo Bog
 
 -------
 
@@ -36,7 +38,7 @@ Incredibly complicated tones, sounds like telephone bells.
 | sightings  | count | location
 | :--------- | :---- | :-------
 | 2020-06-27 | 5+    | Buffalo Creek
-| 2020-07-13 | 10+   | Centennial Park
+| 2020-07-13 | 10+   | Buffalo Bog
 | 2020-07-14 | 1+    | Peyton Hill
 
 -------
@@ -74,7 +76,7 @@ https://en.wikipedia.org/wiki/Eurema_nicippe
 
 | sightings  | count | location
 | :--------- | :---- | :-------
-| 2020-06-27 | 1     | Centennial Park
+| 2020-06-27 | 1     | Buffalo Bog
 
 -------
 
@@ -82,8 +84,29 @@ Blue Dasher
 
 https://en.wikipedia.org/wiki/Blue_dasher
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
+![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
 
 | sightings  | count | location
 | :--------- | :---- | :-------
+
+
+-------
+
+Painted Turtle
+
+https://en.wikipedia.org/wiki/Painted_turtle
+
+![Painted Turtle](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)
+
+
+
+Conservation status: Least concern
+
+| sightings  | count | location
+| :--------- | :---- | :-------
+| 2020-07-14 | 1(+?) | Buffalo Bog
+
+
+Links:
+- https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx
 

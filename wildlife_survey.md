@@ -1,15 +1,74 @@
 
-# Wildlife Survey - Summer 2020
+# Ecological Survey - Summer 2020
 
-Wildlife survey for Arlington Heights Illinois
+Ecological survey for Arlington Heights Illinois
 
-All pictures taken from Wikipedia wikipediadia
+## Climate
 
--------
+Arlington Heights
 
-Great blue Heron
+Temperature:
 
-https://en.wikipedia.org/wiki/Great_blue_heron
+|              | °C   | °F   | Date
+| :----------- | :--- | :--- | :----
+| <b>Low</b>   | 12.2 | 54   | June 13
+| <b>High</b>  | 34.4 | 94   | June 6
+| <b>Avg.</b>  | 23.3 | 74   |
+
+## Wildlife Survey
+
+### McDonald Creek
+
+Animals
+
+| Species                        | Count
+| :----------                    | :-----
+| [Red-winged blackbird](#red-winged-blackbird) | some
+| [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | 1
+| Unknown Frog                   | 3
+| Unknown Tadpole                | 5+
+| Unknown Wasp                   | some
+| Unknown blue dragonfly         | some
+| Unknown black/orange butterfly | 1
+
+Plants
+
+| Species     | Count
+| :---------- | :-----
+| [Typa](#typa) | many
+
+
+### Buffalo Bog
+
+Animals
+
+| Species              | Count
+| :----------          | :-----
+| [Red-winged blackbird](#red-winged-blackbird) | many
+| [Blue dasher](#blue-dasher) | many
+| [Mallard](#mallard) | 24+
+| [Great blue heron](#great-blue-heron) | 1
+| [Sleepy Orange Butterfly](#sleepy-orange) | 1
+| Pond skipper turtle  | 4
+| Unknown Fish         | some
+| Unknown snail        | some
+
+
+### Golf club
+
+| Species               | Count
+| :----------           | :-----
+| [Blue jay](#blue-jay) | 2
+
+
+
+## Log
+
+<div id="great-blue-heron"></div>
+#### Great blue Heron
+
+
+[https://en.wikipedia.org/wiki/Great_blue_heron](https://en.wikipedia.org/wiki/Great_blue_heron)
 
 ![Heron](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)
 
@@ -24,7 +83,8 @@ Conservation status: Least concern
 
 -------
 
-Red-winged blackbird
+<div id="red-winged-blackbird"></div>
+#### Red-winged blackbird
 
 https://en.wikipedia.org/wiki/Red-winged_blackbird
 
@@ -43,36 +103,45 @@ Incredibly complicated tones, sounds like telephone bells.
 
 -------
 
-Mallard
+<div id="mallard"></div>
+#### Mallard
 
-https://en.wikipedia.org/wiki/Mallard
+[https://en.wikipedia.org/wiki/Mallard](https://en.wikipedia.org/wiki/Mallard)
 
 | Female (left) Male (right) | Juveniles
 | :------------------------- | :--------
 | ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
 
-| sightings  | count | location
-| :--------- | :---- | :-------
+These ducks maintain social structures at the bog. There are several 
+families living together
+
+| location    | count
+| :-------    | :----
+| Buffalo bog | 24+
 
 -------
 
-Blue Jay
+<div id="blue-jay"></div>
+#### Blue Jay
 
-https://en.wikipedia.org/wiki/Blue_jay
+[https://en.wikipedia.org/wiki/Blue_jay](https://en.wikipedia.org/wiki/Blue_jay)
 
 ![Blue Jay](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)
 
 | sightings  | count | location
 | :--------- | :---- | :-------
-| 2020-07-06 | 1     | BG Golf Club
+| 2020-07-06 | 1     | Golf Club
 
 -------
 
-Sleepy Orange Butterfly
+<div id="sleepy-orange"></div>
+#### Sleepy Orange Butterfly
 
-https://en.wikipedia.org/wiki/Eurema_nicippe
+[https://en.wikipedia.org/wiki/Eurema_nicippe](https://en.wikipedia.org/wiki/Eurema_nicippe)
 
 ![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
+
+I'm not sure if this is exactly the species but there was one that looked similar
 
 | sightings  | count | location
 | :--------- | :---- | :-------
@@ -80,14 +149,18 @@ https://en.wikipedia.org/wiki/Eurema_nicippe
 
 -------
 
-Blue Dasher
+<div id="blue-dasher"></div>
+#### Blue Dasher
 
-https://en.wikipedia.org/wiki/Blue_dasher
+[https://en.wikipedia.org/wiki/Blue_dasher](https://en.wikipedia.org/wiki/Blue_dasher)
 
 ![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
 
+Very vibrant, almost reflective like a saphire crystal.
+
 | sightings  | count | location
 | :--------- | :---- | :-------
+|            | some  | Buffalo Bog
 
 
 -------
@@ -99,7 +172,6 @@ https://en.wikipedia.org/wiki/Painted_turtle
 ![Painted Turtle](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)
 
 
-
 Conservation status: Least concern
 
 | sightings  | count | location
@@ -108,5 +180,5 @@ Conservation status: Least concern
 
 
 Links:
-- https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx
+- [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
 

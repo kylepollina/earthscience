@@ -22,6 +22,7 @@ My earthscience studies
 ### NOAA
 Datasets officially released by the United States National Oceanic and Atmospheric Administration (NOAA)
 
+- [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets) - Online climate datasets
 - [Mauna Loa CO2 Observatory](https://www.esrl.noaa.gov/gmd/ccgg/trends/data.html) - Trends in Atmospheric Carbon Dioxide from Mauna Loa, Hawaii
 - [Deep Sea Corals](https://www.kaggle.com/noaa/deep-sea-corals) - Coral Records from NOAA’s Deep-Sea Coral Research and Technology Program
 - [Severe Weather Data Inventory](https://www.kaggle.com/noaa/noaa-severe-weather-data-inventory) - An integrated database of severe weather records for the United States

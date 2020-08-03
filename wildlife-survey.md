@@ -1,7 +1,7 @@
 
 # Ecological Survey - Summer 2020
 
-Ecological survey for Arlington Heights Illinois
+Ecological survey for Arlington Heights Illinois. All images taken off wikipedia.
 
 ## Climate
 
@@ -11,9 +11,9 @@ Temperature:
 
 |              | °C   | °F   | Date
 | :----------- | :--- | :--- | :----
-| <b>Low</b>   | 12.2 | 54   | June 13
-| <b>High</b>  | 34.4 | 94   | June 6
-| <b>Avg.</b>  | 23.3 | 74   |
+| **Low**      | 12.2 | 54   | June 13
+| **High**     | 34.4 | 94   | June 6
+| **Avg.**     | 23.3 | 74   |
 
 ## Wildlife Survey
 
@@ -21,21 +21,21 @@ Temperature:
 
 Animals
 
-| Species                        | Count
-| :----------                    | :-----
-| [Red-winged blackbird](#red-winged-blackbird) | some
+| Species                                               | Count
+| :----------                                           | :-----
+| [Red-winged blackbird](#red-winged-blackbird)         | some
 | [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | 1
-| Unknown Frog                   | 3
-| Unknown Tadpole                | 5+
-| Unknown Wasp                   | some
-| Unknown blue dragonfly         | some
-| Unknown black/orange butterfly | 1
+| Unknown Frog                                          | 3
+| Unknown Tadpole                                       | 5+
+| Unknown Wasp                                          | some
+| Unknown blue dragonfly                                | some
+| Unknown black/orange butterfly                        | 1
 
 Plants
 
 | Species     | Count
 | :---------- | :-----
-| [Typa](#typa) | many
+| Typa        | many
 
 
 ### Buffalo Bog

@@ -5,13 +5,18 @@ Arlington Heights trash cleanup
 
 #### McDonald Creek
 <u>2019-07-19</u>
-![a](trash/buffalo_creek_0)
-![a](trash/buffalo_creek_1)
-![a](trash/buffalo_creek_2)
-![a](trash/buffalo_creek_3)
-![a](trash/buffalo_creek_4)
+![a](trash/mcdonald_creek_9)
+![a](trash/mcdonald_creek_1)
+![a](trash/mcdonald_creek_2)
+![a](trash/mcdonald_creek_3)
+![a](trash/mcdonald_creek_4)
 
 #### Buffalo Bog
+<u>2019-07-25</u>
+![a](trash/buffalo_bog_1)
+![a](trash/buffalo_bog_2)
+![a](trash/buffalo_bog_3)
+![a](trash/buffalo_bog_4)
 
 Arlington Heights Rd
 - Intersection w/Hintz North/South

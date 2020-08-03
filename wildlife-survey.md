@@ -15,6 +15,8 @@ Temperature:
 | **High**     | 34.4 | 94   | June 6
 | **Avg.**     | 23.3 | 74   |
 
+[Climate data](data/climate.csv)
+
 ## Wildlife Survey
 
 ### McDonald Creek

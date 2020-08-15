@@ -10,8 +10,8 @@
 
 
 ### Jupyter Notebooks
-- [Atmospheric Carbon Dioxide Analysis]() - Analysis of Mauna Loa carbon dioxide data from 1958-2019
-- [Earth Surface Temperature Analysis]() - Analysis of global temperature data from 1760s through 2013
+- [Atmospheric Carbon Dioxide Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Atmospheric_CO2_Analysis/Atmospheric%20Carbon%20Dioxide%20Analysis.ipynb) - Analysis of Mauna Loa carbon dioxide data from 1958-2019
+- [Earth Surface Temperature Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Surface_Temperature_Analysis/Earth%20Surface%20Temperature%20Analysis.ipynb) - Analysis of global temperature data from 1760s through 2013
 
 
 ## Tools

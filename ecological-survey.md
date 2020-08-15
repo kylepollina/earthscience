@@ -15,9 +15,10 @@ Temperature:
 | **High**     | 34.4 | 94   | June 6
 | **Avg.**     | 23.3 | 74   |
 
+
 [Climate data](data/climate.csv)
 
-## Wildlife Survey
+## Wildlife
 
 ### McDonald Creek
 
@@ -55,6 +56,12 @@ Animals
 | Unknown Fish         | some
 | Unknown snail        | some
 
+Plants
+
+| Species
+| :-----
+| [Milkweed](https://en.wikipedia.org/wiki/Asclepias)
+
 
 ### Golf club
 
@@ -63,8 +70,15 @@ Animals
 | [Blue jay](#blue-jay) | 2
 
 
-
 ## Log
+
+<div id="red-tailed-hawk"></div>
+#### Red tailed Hawk
+
+[https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
+
+![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
+
 
 <div id="great-blue-heron"></div>
 #### Great blue Heron

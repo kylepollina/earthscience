@@ -3,7 +3,7 @@
 
 ## Research
 
-- [My Earth Science Resources](https://github.com/kylepollina/earthscience)
+- [My Earth Science Resources](https://github.com/kylepollina/earthscience/blob/master/resources.md)
 
 ### Field Work
 - [Arlington Heights Ecological Survey 2020](https://kylepollina.github.io/earthscience/ecological-survey.html)

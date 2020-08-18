@@ -67,13 +67,17 @@ Plants
 | [Blue jay](#blue-jay) | 2
 
 
-### Links
-- [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
-- [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
-
-
 
 ### Log
+
+<div id="downy-woodpecker"></div>
+#### Downy Woodpecker
+
+![downy](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)
+
+- [https://ebird.org/species/dowwoo/](https://ebird.org/species/dowwoo/)
+- [https://en.wikipedia.org/wiki/Downy_woodpecker](https://en.wikipedia.org/wiki/Downy_woodpecker)
+
 
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk
@@ -196,5 +200,12 @@ Conservation status: Least concern
 | sightings  | count | location
 | :--------- | :---- | :-------
 | 2020-07-14 | 1(+?) | Buffalo Bog
+
+
+### Links
+
+#### Turtles
+- [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
+- [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
 
 

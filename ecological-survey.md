@@ -68,6 +68,11 @@ Plants
 | [Blue jay](#blue-jay) | 2
 
 
+### Links
+- [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
+- [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
+
+
 
 ### Log
 
@@ -193,8 +198,4 @@ Conservation status: Least concern
 | :--------- | :---- | :-------
 | 2020-07-14 | 1(+?) | Buffalo Bog
 
-
-### Links
-- [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
-- [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
 

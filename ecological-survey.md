@@ -9,11 +9,10 @@ Arlington Heights
 
 Temperature:
 
-|              | °C   | °F   | Date
-| :----------- | :--- | :--- | :----
-| **Low**      | 12.2 | 54   | June 13
-| **High**     | 34.4 | 94   | June 6
-| **Avg.**     | 23.3 | 74   |
+|              | °C   | °F     | Date
+| :----------- | :--- | :---   | :----
+| **Low**      | 12.2 | 54.00  | June 13
+| **High**     | 36.67| 98.01  | June 6
 
 
 [Climate data](data/climate.csv)

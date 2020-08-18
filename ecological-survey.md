@@ -15,14 +15,14 @@ Temperature:
 | **High**     | 36.67| 98.01  | June 6
 
 
-[Climate data](data/climate.csv)
+[Climate data (Download CSV)](data/climate.csv)
 
 
 ## Wildlife
 
 ### McDonald Creek
 
-Coordinates: [42.13120/-87.97922](https://www.openstreetmap.org/#map=19/42.13120/-87.97922)
+Coordinates: [42.13120/-87.97922 (OpenStreetMap)](https://www.openstreetmap.org/#map=19/42.13120/-87.97922)
 
 Animals
 
@@ -39,7 +39,7 @@ Animals
 
 ### Mallards Bog
 
-Coordinates: [42.12794/-87.96206](https://www.openstreetmap.org/#map=19/42.12794/-87.96206)
+Coordinates: [42.12794/-87.96206 (OpenStreetMap)](https://www.openstreetmap.org/#map=19/42.12794/-87.96206)
 
 Animals
 

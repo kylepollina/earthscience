@@ -196,4 +196,5 @@ Conservation status: Least concern
 
 Links:
 - [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
+- [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
 

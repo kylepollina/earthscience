@@ -29,9 +29,8 @@ Animals
 | Species                                               | Count
 | :----------                                           | :-----
 | [Red-winged blackbird](#red-winged-blackbird)         | some
-| [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | 1
+| [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | some
 | [Monarch Butterfly](#monarch-butterfly)               | some
-| [Eastern Cottontail Rabbit](#eastern-cottontail)      | some
 | Unknown Frog                                          | 3
 | Unknown Tadpole                                       | 5+
 | Unknown Wasp                                          | some

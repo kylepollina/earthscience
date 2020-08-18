@@ -53,13 +53,6 @@ Animals
 | Unknown Fish         | some
 | Unknown snail        | some
 
-Plants
-
-| Species
-| :-----
-| [Milkweed](https://en.wikipedia.org/wiki/Asclepias)
-
-
 ### Golf club
 
 | Species               | Count
@@ -70,6 +63,21 @@ Plants
 
 ### Log
 
+<div id="baltimore-oriole"></div>
+#### Baltimore Oriole
+
+![oriole](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)
+
+- [https://ebird.org/species/balori](https://ebird.org/species/balori)
+- [https://en.wikipedia.org/wiki/Baltimore_oriole](https://en.wikipedia.org/wiki/Baltimore_oriole)
+
+| sightings   | count | sex | location
+| :---------- | :---- | :-- | :-------
+|  2020-08-17 | 1     | M   | Backyard
+
+
+-------
+
 <div id="downy-woodpecker"></div>
 #### Downy Woodpecker
 
@@ -78,6 +86,13 @@ Plants
 - [https://ebird.org/species/dowwoo/](https://ebird.org/species/dowwoo/)
 - [https://en.wikipedia.org/wiki/Downy_woodpecker](https://en.wikipedia.org/wiki/Downy_woodpecker)
 
+| sightings   | count | sex | location
+| :---------- | :---- | :-- | :-------
+|  2020-08-17 | 1     | F   | Backyard
+
+
+
+-------
 
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk
@@ -86,6 +101,7 @@ Plants
 
 ![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
 
+-------
 
 <div id="great-blue-heron"></div>
 #### Great blue Heron

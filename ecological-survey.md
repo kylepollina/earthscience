@@ -18,9 +18,12 @@ Temperature:
 
 [Climate data](data/climate.csv)
 
+
 ## Wildlife
 
 ### McDonald Creek
+
+Coordinates: [42.13120/-87.97922](https://www.openstreetmap.org/#map=19/42.13120/-87.97922)
 
 Animals
 
@@ -28,20 +31,16 @@ Animals
 | :----------                                           | :-----
 | [Red-winged blackbird](#red-winged-blackbird)         | some
 | [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | 1
+| [Monarch Butterfly](#monarch-butterfly)               | some
+| [Eastern Cottontail Rabbit](#eastern-cottontail)      | some
 | Unknown Frog                                          | 3
 | Unknown Tadpole                                       | 5+
 | Unknown Wasp                                          | some
 | Unknown blue dragonfly                                | some
-| Unknown black/orange butterfly                        | 1
 
-Plants
+### Mallards Bog
 
-| Species     | Count
-| :---------- | :-----
-| Typa        | many
-
-
-### Buffalo Bog
+Coordinates: [42.12794/-87.96206](https://www.openstreetmap.org/#map=19/42.12794/-87.96206)
 
 Animals
 
@@ -70,7 +69,8 @@ Plants
 | [Blue jay](#blue-jay) | 2
 
 
-## Log
+
+### Log
 
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk

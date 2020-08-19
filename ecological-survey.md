@@ -59,9 +59,18 @@ Animals
 | :----------           | :-----
 | [Blue jay](#blue-jay) | 2
 
-
+-------
 
 ### Log
+
+<div id="monarch-butterfly"></div>
+#### Monarch Butterfly
+
+![monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
+
+- [https://en.wikipedia.org/wiki/Monarch_butterfly](https://en.wikipedia.org/wiki/Monarch_butterfly)
+
+-------
 
 <div id="baltimore-oriole"></div>
 #### Baltimore Oriole
@@ -75,6 +84,14 @@ Animals
 | :---------- | :---- | :-- | :-------
 |  2020-08-17 | 1     | M   | Backyard
 
+-------
+
+<div id="cotton-tailed-rabbit"></div>
+#### Eastern Cotton-tailed rabbit
+
+![cotton tail](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)
+
+- [https://en.wikipedia.org/wiki/Eastern_cottontail](https://en.wikipedia.org/wiki/Eastern_cottontail)
 
 -------
 

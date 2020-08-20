@@ -1,7 +1,7 @@
 all: index ecology
 
 index:
-	embedmd template.html > index.html
+	embedmd templates/template.html > index.html
 
 ecology:
-	embedmd ecological-survey-template.html > ecological-survey.html
+	embedmd templates/ecological-survey-template.html > ecological-survey.html

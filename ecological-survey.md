@@ -63,6 +63,44 @@ Animals
 
 ### Log
 
+<div id="striped-skunk"></div>
+#### Striped skunk
+
+![https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg)
+
+Big stinker, seen in the evenings and at night.
+
+- [https://en.wikipedia.org/wiki/Striped_skunk](https://en.wikipedia.org/wiki/Striped_skunk)
+
+<div id="northern-cardinal"></div>
+#### Northern Cardinal
+
+Male<br>
+![male](https://upload.wikimedia.org/wikipedia/commons/d/da/Cardinal.jpg) 
+
+Female
+![female](https://upload.wikimedia.org/wikipedia/commons/f/f4/Cardinalis_cardinalis_-Florida%2C_USA_-female-8.jpg)
+
+Common bird with a great whistle.
+
+- [https://ebird.org/species/norcar](https://ebird.org/species/norcar)
+- [https://en.wikipedia.org/wiki/Northern_cardinal](https://en.wikipedia.org/wiki/Northern_cardinal)
+
+-------
+
+<div id="american-robin"></div>
+#### American Robin
+
+![robin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Turdus-migratorius-002.jpg)
+
+Very common bird in the neighborhood in the spring and early summer. Not seen as much
+around now in August. Many different songs and calls.
+
+- [https://ebird.org/species/amerob](https://ebird.org/species/amerob)
+- [https://en.wikipedia.org/wiki/American_robin](https://en.wikipedia.org/wiki/American_robin)
+
+-------
+
 <div id="american-gold-finch"></div>
 #### American Goldfinch
 
@@ -81,7 +119,7 @@ Seen mostly in the early evenings.
 ![monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
 
 (Female pictured) Similar looking to [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(butterfly)) 
-butterflys, but can be distinguished between by looking at the veins. Notice here:
+butterflys, but can be distinguished by looking at the vein patterns. Notice here:
 
 ![viceroy vs monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_Viceroy_Mimicry_Comparison.jpg)
 
@@ -96,6 +134,7 @@ at the vein parallel to the edge of the wing.
 #### Baltimore Oriole
 
 ![oriole](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)
+Vibrant orange body with a striking black head and wings.
 Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbirds.
 
 - [https://ebird.org/species/balori](https://ebird.org/species/balori)
@@ -104,8 +143,6 @@ Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbi
 | sightings   | count | sex | location
 | :---------- | :---- | :-- | :-------
 |  2020-08-17 | 1     | M   | Backyard
-
-So far only one spotted ever. My very first oriole spotting.
 
 -------
 
@@ -125,7 +162,8 @@ A common friend around the neighborhood. Inquisitive and often hungry.
 
 ![downy](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)
 
-A beautiful woodpecker with many black and white stripped designs, and pearl speckled wings.
+A beautiful woodpecker with many black and white striped designs, and pearl speckled wings.
+Males have red feathers on the top of their heads, females do not.
 
 - [https://ebird.org/species/dowwoo/](https://ebird.org/species/dowwoo/)
 - [https://en.wikipedia.org/wiki/Downy_woodpecker](https://en.wikipedia.org/wiki/Downy_woodpecker)
@@ -134,14 +172,15 @@ A beautiful woodpecker with many black and white stripped designs, and pearl spe
 | :---------- | :---- | :-- | :-------
 |  2020-08-17 | 1     | F   | Backyard
 
-
-
 -------
 
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk
 
 ![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
+
+I've seen some hawks fly through the neighborhood every now and then. Identified
+as a red-tailed hawk since they are the most common it seems, but I am not sure.
 
 - [https://ebird.org/species/rethaw/](https://ebird.org/species/rethaw/)
 - [https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
@@ -153,16 +192,16 @@ A beautiful woodpecker with many black and white stripped designs, and pearl spe
 
 ![Heron](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)
 
+Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
+
 - [https://ebird.org/species/grbher3](https://ebird.org/species/grbher3)
 - [https://en.wikipedia.org/wiki/Great_blue_heron](https://en.wikipedia.org/wiki/Great_blue_heron)
 
 
-Wades on the shallow end of the bog, feeds on small fish
-
 | sightings   | count | location
 | :---------- | :---- | :-------
 |  2020-06-27 | 1     | Buffalo Creek
-|  2020-07-12 | 1     | Buffalo Bog
+|  2020-07-12 | 1     | Mallards Bog
 
 -------
 
@@ -174,18 +213,21 @@ Wades on the shallow end of the bog, feeds on small fish
 | :--- | :------
 | ![Male](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg) | ![Female](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)
 
+Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head.
+Incredibly complicated tones, sounds like telephone bells. Members of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family
+
+
 - [https://ebird.org/species/rewbla](https://ebird.org/species/rewbla)
 - [https://en.wikipedia.org/wiki/Red-winged_blackbird](https://en.wikipedia.org/wiki/Red-winged_blackbird)
 
 
-Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head.
-Incredibly complicated tones, sounds like telephone bells. Members of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family
-
 | sightings  | count | location
 | :--------- | :---- | :-------
 | 2020-06-27 | 5+    | Buffalo Creek
-| 2020-07-13 | 10+   | Buffalo Bog
+| 2020-07-13 | 10+   | Mallards Bog
 | 2020-07-14 | 1+    | Peyton Hill
+
+By August, the birds seem to have left from Mallards Bog
 
 -------
 
@@ -196,17 +238,17 @@ Incredibly complicated tones, sounds like telephone bells. Members of the [Icter
 | :------------------------- | :--------
 | ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
 
+These ducks maintain social structures at the bog. There are several 
+families living together
+
 
 - [https://ebird.org/species/mallar3](https://ebird.org/species/mallar3)
 - [https://en.wikipedia.org/wiki/Mallard](https://en.wikipedia.org/wiki/Mallard)
 
 
-These ducks maintain social structures at the bog. There are several 
-families living together
-
 | location    | count
 | :-------    | :----
-| Buffalo bog | 24+
+| Mallards Bog | 24+
 
 -------
 
@@ -232,14 +274,14 @@ Sapphire blue bird. Mysterious and elusive in my neighborhood...
 
 ![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
 
+I'm not sure if this is exactly the species but there was one that looked similar
+
 
 - [https://en.wikipedia.org/wiki/Eurema_nicippe](https://en.wikipedia.org/wiki/Eurema_nicippe)
 
-I'm not sure if this is exactly the species but there was one that looked similar
-
 | sightings  | count | location
 | :--------- | :---- | :-------
-| 2020-06-27 | 1     | Buffalo Bog
+| 2020-06-27 | 1     | Mallards Bog
 
 -------
 
@@ -248,14 +290,14 @@ I'm not sure if this is exactly the species but there was one that looked simila
 
 ![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
 
+Very vibrant, almost reflective like a saphire crystal.
+
 - [https://en.wikipedia.org/wiki/Blue_dasher](https://en.wikipedia.org/wiki/Blue_dasher)
 
 
-Very vibrant, almost reflective like a saphire crystal.
-
 | sightings  | count | location
 | :--------- | :---- | :-------
-|            | some  | Buffalo Bog
+|            | some  | Mallards Bog
 
 -------
 
@@ -269,7 +311,7 @@ Very vibrant, almost reflective like a saphire crystal.
 
 | sightings  | count | location
 | :--------- | :---- | :-------
-| 2020-07-14 | 1(+?) | Buffalo Bog
+| 2020-07-14 | 1(+?) | Mallards Bog
 
 
 ### Links

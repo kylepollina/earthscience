@@ -71,6 +71,7 @@ Animals
 Big stinker, seen in the evenings and at night.
 
 - [https://en.wikipedia.org/wiki/Striped_skunk](https://en.wikipedia.org/wiki/Striped_skunk)
+- [https://www2.illinois.gov/dnr/conservation/wildlife/Pages/Skunk.aspx](https://www2.illinois.gov/dnr/conservation/wildlife/Pages/Skunk.aspx)
 
 <div id="northern-cardinal"></div>
 #### Northern Cardinal

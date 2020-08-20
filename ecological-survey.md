@@ -63,10 +63,30 @@ Animals
 
 ### Log
 
+<div id="american-gold-finch"></div>
+#### American Goldfinch
+
+![goldfinch](https://upload.wikimedia.org/wikipedia/commons/a/a0/Male_American_Goldfinch_in_Lodi_CA.JPG)
+
+Seen mostly in the early evenings.
+
+- [https://ebird.org/species/amegfi](https://ebird.org/species/amegfi)
+- [https://en.wikipedia.org/wiki/American_goldfinch](https://en.wikipedia.org/wiki/American_goldfinch)
+
+-------
+
 <div id="monarch-butterfly"></div>
 #### Monarch Butterfly
 
 ![monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
+
+(Female pictured) Similar looking to [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(butterfly)) 
+butterflys, but can be distinguished between by looking at the veins. Notice here:
+
+![viceroy vs monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_Viceroy_Mimicry_Comparison.jpg)
+
+With the monarch on the left, and the viceroy on the right, one can tell the difference by looking
+at the vein parallel to the edge of the wing.
 
 - [https://en.wikipedia.org/wiki/Monarch_butterfly](https://en.wikipedia.org/wiki/Monarch_butterfly)
 
@@ -76,6 +96,7 @@ Animals
 #### Baltimore Oriole
 
 ![oriole](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)
+Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbirds.
 
 - [https://ebird.org/species/balori](https://ebird.org/species/balori)
 - [https://en.wikipedia.org/wiki/Baltimore_oriole](https://en.wikipedia.org/wiki/Baltimore_oriole)
@@ -84,12 +105,16 @@ Animals
 | :---------- | :---- | :-- | :-------
 |  2020-08-17 | 1     | M   | Backyard
 
+So far only one spotted ever. My very first oriole spotting.
+
 -------
 
 <div id="cotton-tailed-rabbit"></div>
 #### Eastern Cotton-tailed rabbit
 
 ![cotton tail](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)
+
+A common friend around the neighborhood. Inquisitive and often hungry.
 
 - [https://en.wikipedia.org/wiki/Eastern_cottontail](https://en.wikipedia.org/wiki/Eastern_cottontail)
 
@@ -99,6 +124,8 @@ Animals
 #### Downy Woodpecker
 
 ![downy](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)
+
+A beautiful woodpecker with many black and white stripped designs, and pearl speckled wings.
 
 - [https://ebird.org/species/dowwoo/](https://ebird.org/species/dowwoo/)
 - [https://en.wikipedia.org/wiki/Downy_woodpecker](https://en.wikipedia.org/wiki/Downy_woodpecker)
@@ -114,23 +141,23 @@ Animals
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk
 
-[https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
-
 ![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
+
+- [https://ebird.org/species/rethaw/](https://ebird.org/species/rethaw/)
+- [https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
 
 -------
 
 <div id="great-blue-heron"></div>
 #### Great blue Heron
 
-
-[https://en.wikipedia.org/wiki/Great_blue_heron](https://en.wikipedia.org/wiki/Great_blue_heron)
-
 ![Heron](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)
 
-Wades on the shallow end of the bog, feeds on small fish
+- [https://ebird.org/species/grbher3](https://ebird.org/species/grbher3)
+- [https://en.wikipedia.org/wiki/Great_blue_heron](https://en.wikipedia.org/wiki/Great_blue_heron)
 
-Conservation status: Least concern
+
+Wades on the shallow end of the bog, feeds on small fish
 
 | sightings   | count | location
 | :---------- | :---- | :-------
@@ -142,14 +169,17 @@ Conservation status: Least concern
 <div id="red-winged-blackbird"></div>
 #### Red-winged blackbird
 
-https://en.wikipedia.org/wiki/Red-winged_blackbird
 
 | Male | Female
 | :--- | :------
 | ![Male](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg) | ![Female](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)
 
+- [https://ebird.org/species/rewbla](https://ebird.org/species/rewbla)
+- [https://en.wikipedia.org/wiki/Red-winged_blackbird](https://en.wikipedia.org/wiki/Red-winged_blackbird)
+
+
 Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head.
-Incredibly complicated tones, sounds like telephone bells.
+Incredibly complicated tones, sounds like telephone bells. Members of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family
 
 | sightings  | count | location
 | :--------- | :---- | :-------
@@ -162,11 +192,14 @@ Incredibly complicated tones, sounds like telephone bells.
 <div id="mallard"></div>
 #### Mallard
 
-[https://en.wikipedia.org/wiki/Mallard](https://en.wikipedia.org/wiki/Mallard)
-
 | Female (left) Male (right) | Juveniles
 | :------------------------- | :--------
 | ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
+
+
+- [https://ebird.org/species/mallar3](https://ebird.org/species/mallar3)
+- [https://en.wikipedia.org/wiki/Mallard](https://en.wikipedia.org/wiki/Mallard)
+
 
 These ducks maintain social structures at the bog. There are several 
 families living together
@@ -180,9 +213,13 @@ families living together
 <div id="blue-jay"></div>
 #### Blue Jay
 
-[https://en.wikipedia.org/wiki/Blue_jay](https://en.wikipedia.org/wiki/Blue_jay)
-
 ![Blue Jay](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)
+
+Sapphire blue bird. Mysterious and elusive in my neighborhood...
+
+- [https://ebird.org/species/blujay](https://ebird.org/species/blujay)
+- [https://en.wikipedia.org/wiki/Blue_jay](https://en.wikipedia.org/wiki/Blue_jay)
+
 
 | sightings  | count | location
 | :--------- | :---- | :-------
@@ -193,9 +230,10 @@ families living together
 <div id="sleepy-orange"></div>
 #### Sleepy Orange Butterfly
 
-[https://en.wikipedia.org/wiki/Eurema_nicippe](https://en.wikipedia.org/wiki/Eurema_nicippe)
-
 ![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
+
+
+- [https://en.wikipedia.org/wiki/Eurema_nicippe](https://en.wikipedia.org/wiki/Eurema_nicippe)
 
 I'm not sure if this is exactly the species but there was one that looked similar
 
@@ -208,9 +246,10 @@ I'm not sure if this is exactly the species but there was one that looked simila
 <div id="blue-dasher"></div>
 #### Blue Dasher
 
-[https://en.wikipedia.org/wiki/Blue_dasher](https://en.wikipedia.org/wiki/Blue_dasher)
-
 ![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
+
+- [https://en.wikipedia.org/wiki/Blue_dasher](https://en.wikipedia.org/wiki/Blue_dasher)
+
 
 Very vibrant, almost reflective like a saphire crystal.
 
@@ -223,12 +262,10 @@ Very vibrant, almost reflective like a saphire crystal.
 <div id="painted-turtle"></div>
 #### Painted Turtle
 
-https://en.wikipedia.org/wiki/Painted_turtle
-
 ![Painted Turtle](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)
 
+- [https://en.wikipedia.org/wiki/Painted_turtle](https://en.wikipedia.org/wiki/Painted_turtle)
 
-Conservation status: Least concern
 
 | sightings  | count | location
 | :--------- | :---- | :-------

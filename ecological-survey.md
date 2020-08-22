@@ -63,6 +63,22 @@ Animals
 
 ### Log
 
+<div id="canadian-goose"></div>
+#### Canadian Goose
+
+![goose](https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg)
+
+Huge honker. Famalies starting to move south as the summer nears its end.
+
+- [https://ebird.org/species/cangoo/](https://ebird.org/species/cangoo/)
+- [https://en.wikipedia.org/wiki/Canada_goose](https://en.wikipedia.org/wiki/Canada_goose)
+
+| sightings   | count |
+| :---------- | :---- |
+|  2020-08-22 | 8     |
+
+-------
+
 <div id="striped-skunk"></div>
 #### Striped skunk
 
@@ -72,6 +88,8 @@ Big stinker, seen in the evenings and at night.
 
 - [https://en.wikipedia.org/wiki/Striped_skunk](https://en.wikipedia.org/wiki/Striped_skunk)
 - [https://www2.illinois.gov/dnr/conservation/wildlife/Pages/Skunk.aspx](https://www2.illinois.gov/dnr/conservation/wildlife/Pages/Skunk.aspx)
+
+-------
 
 <div id="northern-cardinal"></div>
 #### Northern Cardinal

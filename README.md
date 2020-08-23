@@ -14,10 +14,16 @@
 - [Earth Surface Temperature Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Surface_Temperature_Analysis/Earth%20Surface%20Temperature%20Analysis.ipynb) - Analysis of global temperature data from 1760s through 2013
 - [Fracking and Oklahoma Earthquakes](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Fracking_and_Oklahoma_Quakes/Fracking_and_Oklahoma_Quakes%20main.ipynb) - (In progress) look at Oil wells drilled and earthquake data
 
-## Tools
+### Tools
 
 - [topo2geo](https://github.com/kylepollina/topo2geo) - CLI for converting topoJSON to geoJSON
 
-## Links
+
+-------
+
+## Resources
+
+### Links
 
 - [A Citizens' Guide to Monitoring Lakes and Streams [PDF]](https://fortress.wa.gov/ecy/publications/documents/94149.pdf)
+- [Introduction to geospatial vector data in Python](https://nbviewer.jupyter.org/github/ThomasatTUC/Geo-Data-Science/blob/master/Using%20Geo%20Data%20in%20Python.ipynb)

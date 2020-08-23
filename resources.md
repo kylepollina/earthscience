@@ -1,6 +1,6 @@
-## Resources
+# Datasets
 
-#### Sections
+### Sections
 
   1. [NOAA](#noaa)
   2. [EPA](#epa)
@@ -10,7 +10,7 @@
   6. [Other](#other)
 
 
-### NOAA
+## NOAA
 Datasets officially released by the United States National Oceanic and Atmospheric Administration (NOAA)
 
 - [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/datasets) - Online climate datasets
@@ -28,7 +28,7 @@ Datasets officially released by the United States National Oceanic and Atmospher
 - [NOAA GOES-16](https://www.kaggle.com/noaa/goes16) - Next generation geostationary weather satellites data 
 - [NOAA U.S. Climatic Normals](https://www.kaggle.com/noaa/noaa-u-s-climatic-normals) - Climate Normals are three-decade averages of climatological variables including temperature and precipitation
 
-### EPA
+## EPA
 Datasets officially released by the United States Environmental Protection Agency (EPA)
 
 - [Historical Air Quality](https://www.kaggle.com/epa/epa-historical-air-quality) - Air Quality Data Collected at Outdoor Monitors Across the US
@@ -40,7 +40,7 @@ Datasets officially released by the United States Environmental Protection Agenc
 - [Vehicle Fuel Economy](https://www.kaggle.com/epa/vehicle-fuel-economy) - Mileage and more for 1948-2018
 - [Chemical Substance Registry (CAS registry numbers)](https://www.kaggle.com/epa/cas-registry-numbers) - The EPA's Toxic Substances Control Act Chemical Substance Inventory
 
-### NASA
+## NASA
 Datasets officially released by the United States National Aeronautics and Space Administration (NASA)
 
 - [NASA Open Data Portal](https://data.nasa.gov/browse) - Curated datasets released by NASA
@@ -48,13 +48,13 @@ Datasets officially released by the United States National Aeronautics and Space
 - [Landslides After Rainfall, 2007-2016](https://www.kaggle.com/nasa/landslide-events) - Location and cause of landslide events around the world
 - [Fireballs](https://www.kaggle.com/nasa/fireballs) - Bolide impacts by the kiloton since 1988
 
-### United Nations
+## United Nations
 Datasets officially released by the United Nations
 
 - [Internation Greenhouse Gas Emissions](https://www.kaggle.com/unitednations/international-greenhouse-gas-emissions) - A global GHG inventory from 1990-2017
 - [International Energy Statistics](https://www.kaggle.com/unitednations/international-energy-statistics) - Global energy trade & production 1990-2014
 
-### Map Data
+## Map Data
 
 - [Natural Earth Map Data](https://www.naturalearthdata.com/) - Natural Earth is a public domain map dataset available at 1:10m, 1:50m, and 1:110 million scales
 - [World TopoJSON Data Collection](https://github.com/deldersveld/topojson) - Collection of [TopoJSON](https://github.com/topojson/topojson) files for Countries/States/Regions around the world
@@ -101,15 +101,6 @@ Datasets officially released by the United Nations
 - [NYS Energy Prices](https://www.kaggle.com/new-york-state/nys-energy-prices) - New York Energy Prices presents retail energy price data
 - [NYS Nursery Growers and Greenhouse](https://www.kaggle.com/new-york-state/nys-nursery-growers-and-greenhouse) - A listing of all certified nursery growers and greenhouses which are licensed by the Department of Agriculture and Markets
 
-
------------
-
-
-## Notebooks
-
-- [Getting Started With Bokeh Visualization](https://www.kaggle.com/parulpandey/recreating-gapminder-visualisation-with-bokeh)
-- [Introduction to geospatial vector data in Python](https://nbviewer.jupyter.org/github/ThomasatTUC/Geo-Data-Science/blob/master/Using%20Geo%20Data%20in%20Python.ipynb)
-
 -----------
 
 ## Libraries
@@ -119,10 +110,6 @@ Datasets officially released by the United Nations
 - [Altair Declarative Data Visualization](https://altair-viz.github.io/) - Altair is a declarative statistical visualization library for Python, based on Vega and Vega-Lite, and the source is available on GitHub
 - [Bokeh](https://bokeh.org/) - Bokeh is an interactive visualization library for modern web browsers
 - [MHKiT-Python](https://github.com/MHKiT-Code-Hub/MHKiT-Python) - MHKiT-Python provides the marine renewable energy (MRE) community tools for data processing, visualization, quality control, resource assessment, and device performance
-
-### R
-
-### Julia
 
 ### Other
 - [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks
@@ -209,13 +196,3 @@ Datasets officially released by the United Nations
         - Chemicals and waste - [https://www.unenvironment.org/explore-topics/chemicals-waste](https://www.unenvironment.org/explore-topics/chemicals-waste)
         - Extractives - [https://www.unenvironment.org/explore-topics/extractives](https://www.unenvironment.org/explore-topics/extractives)
         - Gender - [https://www.unenvironment.org/explore-topics/gender](https://www.unenvironment.org/explore-topics/gender)
-
-### Open Source
-Open Power System Data - [https://open-power-system-data.org/](https://open-power-system-data.org/)
-<br>- Free-of-charge data platform dedicated to electricity system researchers
-
-FIRM AI - [https://www.firmai.org/ ](https://www.firmai.org/ )
-<br>- Open Business Analytics and Data Science Research 
-
-
------------

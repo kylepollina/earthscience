@@ -17,3 +17,7 @@
 ## Tools
 
 - [topo2geo](https://github.com/kylepollina/topo2geo) - CLI for converting topoJSON to geoJSON
+
+## Links
+
+- [A Citizens' Guide to Monitoring Lakes and Streams [PDF]](https://fortress.wa.gov/ecy/publications/documents/94149.pdf)

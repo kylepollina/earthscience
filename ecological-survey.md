@@ -17,6 +17,16 @@ Temperature:
 
 [Climate data (Download CSV)](data/climate.csv)
 
+-------
+
+### Links
+
+- [Biodiversity of Illinois - Education](https://www2.illinois.gov/dnr/education/Pages/Biodiversity-of-Illinois.aspx)
+- [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
+
+
+-------
+
 
 ## Wildlife
 
@@ -332,13 +342,5 @@ Very vibrant, almost reflective like a saphire crystal.
 | :--------- | :---- | :-------
 | 2020-07-14 | 1(+?) | Mallards Bog
 
-
-### Links
-
-#### Turtles
 - [https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx](https://www2.illinois.gov/dnr/education/Pages/WATFamilyEmydidae.aspx)
 - [Native Turtles of Illinois](https://turtleowner.com/native-turtles-of-illinois-with-pictures/)
-
-#### Other
-- [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
-

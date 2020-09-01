@@ -1,4 +1,3 @@
-https://dupagebirding.org/wp-content/uploads/2020/06/2020_DuPage_Checklist-Combined-3.pdf
 
 # Ecological Survey - Summer 2020
 
@@ -24,7 +23,7 @@ Temperature:
 
 - [Biodiversity of Illinois - Education](https://www2.illinois.gov/dnr/education/Pages/Biodiversity-of-Illinois.aspx)
 - [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
-
+- [DuPage Birding Club](https://dupagebirding.org/wp-content/uploads/2020/06/2020_DuPage_Checklist-Combined-3.pdf)
 
 -------
 
@@ -88,6 +87,9 @@ Hornet
 
 Yellow Jacket
 
+-------
+
+
 <div id="crayfish"></div>
 #### Crayfish
 
@@ -109,6 +111,12 @@ Huge honker. Famalies starting to move south as the summer nears its end.
 | sightings   | count |
 | :---------- | :---- |
 |  2020-08-22 | 8     |
+
+<video width="700" height="525" controls>
+   <source src="videos/cangoo-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+[Canada Goose Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/cangoo)
 
 -------
 
@@ -138,6 +146,12 @@ Common bird with a great whistle.
 - [https://ebird.org/species/norcar](https://ebird.org/species/norcar)
 - [https://en.wikipedia.org/wiki/Northern_cardinal](https://en.wikipedia.org/wiki/Northern_cardinal)
 
+<video width="700" height="525" controls>
+   <source src="videos/norcar-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+[Norther Cardinal Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/norcar)
+
 -------
 
 <div id="american-robin"></div>
@@ -151,7 +165,14 @@ around now in August. Many different songs and calls.
 - [https://ebird.org/species/amerob](https://ebird.org/species/amerob)
 - [https://en.wikipedia.org/wiki/American_robin](https://en.wikipedia.org/wiki/American_robin)
 
+<video width="700" height="525" controls>
+   <source src="videos/amerob-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+[American Robin Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/amerob)
+
 -------
+
 
 <div id="american-gold-finch"></div>
 #### American Goldfinch
@@ -162,6 +183,13 @@ Seen mostly in the early evenings.
 
 - [https://ebird.org/species/amegfi](https://ebird.org/species/amegfi)
 - [https://en.wikipedia.org/wiki/American_goldfinch](https://en.wikipedia.org/wiki/American_goldfinch)
+
+<video width="700" height="525" controls>
+   <source src="videos/amegfi-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[American Goldfinch Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/amegfi)
 
 -------
 
@@ -231,6 +259,14 @@ Males have red feathers on the top of their heads, females do not.
 | :---------- | :---- | :-- | :-------
 |  2020-08-17 | 1     | F   | Backyard
 
+
+<video width="700" height="525" controls>
+   <source src="videos/dowwoo-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[Downy Woodpecker Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/dowwoo)
+
 -------
 
 <div id="red-tailed-hawk"></div>
@@ -243,6 +279,14 @@ as a red-tailed hawk since they are the most common it seems, but I am not sure.
 
 - [https://ebird.org/species/rethaw/](https://ebird.org/species/rethaw/)
 - [https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
+
+
+<video width="700" height="525" controls>
+   <source src="videos/rethaw-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[Red-tailed Hawk Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/rethaw)
 
 -------
 
@@ -261,6 +305,14 @@ Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
 | :---------- | :---- | :-------
 |  2020-06-27 | 1     | Buffalo Creek
 |  2020-07-12 | 1     | Mallards Bog
+
+
+<video width="700" height="525" controls>
+   <source src="videos/grbher3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[Great Blue Heron Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/grbher3)
 
 -------
 
@@ -288,6 +340,14 @@ Incredibly complicated tones, sounds like telephone bells. Members of the [Icter
 
 By August, the birds seem to have left from Mallards Bog
 
+
+<video width="700" height="525" controls>
+   <source src="videos/rewbla-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[Red-winged Blackbird Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/rewbla)
+
 -------
 
 <div id="mallard"></div>
@@ -308,6 +368,14 @@ families living together
 | location    | count
 | :-------    | :----
 | Mallards Bog | 24+
+
+
+<video width="700" height="525" controls>
+   <source src="videos/mallar3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+
+[Mallard Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/mallar3)
 
 -------
 

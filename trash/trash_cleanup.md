@@ -11,6 +11,14 @@ Arlington Heights trash cleanup
 ![a](trash/mcdonald_creek_3)
 ![a](trash/mcdonald_creek_4)
 
+North side of small bridge: Cleaned up 1 garbage bag of trash from water/drain
+- plastic bags
+- styrofoam cups / styrofoam food containers
+- plastic food wrappers (granola bars, gummy snacks)
+- police tape
+- plastic bottles
+
+
 #### Buffalo Bog
 <u>2019-07-25</u>
 ![a](trash/buffalo_bog_1)

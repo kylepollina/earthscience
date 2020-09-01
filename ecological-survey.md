@@ -1,3 +1,4 @@
+https://dupagebirding.org/wp-content/uploads/2020/06/2020_DuPage_Checklist-Combined-3.pdf
 
 # Ecological Survey - Summer 2020
 
@@ -41,6 +42,7 @@ Animals
 | [Red-winged blackbird](#red-winged-blackbird)         | some
 | [Eastern Cotton-tailed Rabbit](#cotton-tailed-rabbit) | some
 | [Monarch Butterfly](#monarch-butterfly)               | some
+| [Crayfish](#crayfish)                                   | 1
 | Unknown Frog                                          | 3
 | Unknown Tadpole                                       | 5+
 | Unknown Wasp                                          | some
@@ -72,6 +74,27 @@ Animals
 -------
 
 ### Log
+
+TODO: Bees/wasps
+- [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
+
+Honeybee
+
+Carpenter bee
+
+Paper wasp
+
+Hornet
+
+Yellow Jacket
+
+<div id="crayfish"></div>
+#### Crayfish
+
+| sightings   | count |
+| :---------- | :---- |
+|  2020-08-29 | 1     |
+
 
 <div id="canadian-goose"></div>
 #### Canadian Goose
@@ -169,9 +192,16 @@ Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbi
 - [https://ebird.org/species/balori](https://ebird.org/species/balori)
 - [https://en.wikipedia.org/wiki/Baltimore_oriole](https://en.wikipedia.org/wiki/Baltimore_oriole)
 
-| sightings   | count | sex | location
-| :---------- | :---- | :-- | :-------
-|  2020-08-17 | 1     | M   | Backyard
+| sightings  | count | sex | location
+| :--------- | :---- | :-- | :-------
+| 2020-08-17 | 1     | M   | Backyard
+| 2020-08-29 | 1     | M   | Northbrook IL
+
+<video width="700" height="525" controls>
+   <source src="videos/balori-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+[Baltimore Oriole Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/balori)
 
 -------
 
@@ -295,6 +325,12 @@ Sapphire blue bird. Mysterious and elusive in my neighborhood...
 | sightings  | count | location
 | :--------- | :---- | :-------
 | 2020-07-06 | 1     | Golf Club
+
+<video width="700" height="525" controls>
+   <source src="videos/blujay-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
+
+[Blue Jay Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/blujay)
 
 -------
 

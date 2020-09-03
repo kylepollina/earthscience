@@ -76,25 +76,14 @@ Animals
 
 ### Log
 
-TODO: Bees/wasps
-- [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
-
-Honeybee
-
-Carpenter bee
-
-Paper wasp
-
-Hornet
-
-Yellow Jacket
-
--------
-
 <div id="black-swallowtail"></div>
 #### Black Swallowtail Butterfly
 
 ![female black swallowtail](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pristine_Black_Swallowtail.jpg)
+
+Beautiful little floating flower. Member of the swallowtail family, or [Papilionidae](https://en.wikipedia.org/wiki/Swallowtail_butterfly). Identified as a black swallowtail, but could also be a [spicebush swallowtail](https://en.wikipedia.org/wiki/Papilio_troilus).
+
+- [https://en.wikipedia.org/wiki/Papilio_polyxenes](https://en.wikipedia.org/wiki/Papilio_polyxenes)
 
 | sightings  | sex | count |
 | :--------- | --- | :---- |
@@ -102,8 +91,69 @@ Yellow Jacket
 
 -------
 
+
+### Bees + wasps
+- [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
+
+<div id="bumble-bee"></div>
+
+![bumby](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)
+
+Half-inch to one inch long. Fuzzy bee.
+
+- [https://en.wikipedia.org/wiki/Bumblebee](https://en.wikipedia.org/wiki/Bumblebee)
+
+-------
+
+<div id="eastern-carpenter-bee"></div>
+#### Eastern Carpenter Bee
+
+![carpenter](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carpenter_bee.jpg)
+
+- [https://en.wikipedia.org/wiki/Eastern_carpenter_bee](https://en.wikipedia.org/wiki/Eastern_carpenter_bee)
+
+-------
+
+<div id='western-honeybee'></div>
+#### Western Honeybee
+
+![fuzzy-buzzy](https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg)
+
+A fuzzy-buzzy. Seen playing in the flowers, polinating and eating nectar. Smaller than honeybees;
+about a half-inch in length
+
+- [https://en.wikipedia.org/wiki/Western_honey_bee](https://en.wikipedia.org/wiki/Western_honey_bee)
+
+-------
+
+<div id='paper-wasp'></div>
+#### Paper wasp
+
+![fuck-these-guys](https://upload.wikimedia.org/wikipedia/commons/5/5e/Polistes_dominula_nest_-_paper_wasps.jpg)
+
+Build nests in upsided down overhangs. Eat wood from tables, chairs, trees, to make their nests.
+
+- [https://en.wikipedia.org/wiki/Paper_wasp](https://en.wikipedia.org/wiki/Paper_wasp)
+
+-------
+
+<div id='yellowjacket'></div>
+#### Yellowjacket
+
+![yellow](https://upload.wikimedia.org/wikipedia/commons/9/93/European_wasp_white_bg.jpg)
+
+Aggressive and construct paper nests. Can sting many times.
+
+- [https://en.wikipedia.org/wiki/Yellowjacket](https://en.wikipedia.org/wiki/Yellowjacket)
+
+-------
+
 <div id="crayfish"></div>
 #### Crayfish
+
+![crayfish](https://upload.wikimedia.org/wikipedia/commons/3/3b/Austropotamobius_pallipes.jpg)
+
+Found a single crayfish in McDonald Creek near my house while cleaning up garbage and litter.
 
 | sightings   | count |
 | :---------- | :---- |

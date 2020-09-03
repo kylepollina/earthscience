@@ -24,6 +24,8 @@ Temperature:
 - [Biodiversity of Illinois - Education](https://www2.illinois.gov/dnr/education/Pages/Biodiversity-of-Illinois.aspx)
 - [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
 - [DuPage Birding Club](https://dupagebirding.org/wp-content/uploads/2020/06/2020_DuPage_Checklist-Combined-3.pdf)
+- [Invasive Species of Illinois](https://www.invasive.org/illinois/SpeciesofConcern.html)
+- [Water table](https://cida.usgs.gov/ngwmn/provider/ISWS/site/P406788/)
 
 -------
 
@@ -89,6 +91,16 @@ Yellow Jacket
 
 -------
 
+<div id="black-swallowtail"></div>
+#### Black Swallowtail Butterfly
+
+![female black swallowtail](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pristine_Black_Swallowtail.jpg)
+
+| sightings  | sex | count |
+| :--------- | --- | :---- |
+| 2020-09-02 | F   | 1     |
+
+-------
 
 <div id="crayfish"></div>
 #### Crayfish

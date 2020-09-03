@@ -11,8 +11,8 @@ Temperature:
 
 |              | °C   | °F     | Date
 | :----------- | :--- | :---   | :----
-| **Low**      | 12.2 | 54.00  | June 13
-| **High**     | 36.67| 98.01  | June 6
+| **Low**      | 1.5  | 34.7   | May 27
+| **High**     | 36.67| 98.01  | Aug 10
 
 
 [Climate data (Download CSV)](data/climate.csv)
@@ -110,6 +110,8 @@ Half-inch to one inch long. Fuzzy bee.
 
 ![carpenter](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carpenter_bee.jpg)
 
+Big black rump, no stripes on it.
+
 - [https://en.wikipedia.org/wiki/Eastern_carpenter_bee](https://en.wikipedia.org/wiki/Eastern_carpenter_bee)
 
 -------
@@ -131,7 +133,7 @@ about a half-inch in length
 
 ![fuck-these-guys](https://upload.wikimedia.org/wikipedia/commons/5/5e/Polistes_dominula_nest_-_paper_wasps.jpg)
 
-Build nests in upsided down overhangs. Eat wood from tables, chairs, trees, to make their nests.
+Builds nests in upsided down overhangs. Eats wood from tables, chairs, trees, to make their nests.
 
 - [https://en.wikipedia.org/wiki/Paper_wasp](https://en.wikipedia.org/wiki/Paper_wasp)
 
@@ -142,7 +144,7 @@ Build nests in upsided down overhangs. Eat wood from tables, chairs, trees, to m
 
 ![yellow](https://upload.wikimedia.org/wikipedia/commons/9/93/European_wasp_white_bg.jpg)
 
-Aggressive and construct paper nests. Can sting many times.
+Aggressive and constructs paper nests. Can sting many times without losing its stinger.
 
 - [https://en.wikipedia.org/wiki/Yellowjacket](https://en.wikipedia.org/wiki/Yellowjacket)
 
@@ -159,6 +161,7 @@ Found a single crayfish in McDonald Creek near my house while cleaning up garbag
 | :---------- | :---- |
 |  2020-08-29 | 1     |
 
+-------
 
 <div id="canadian-goose"></div>
 #### Canadian Goose

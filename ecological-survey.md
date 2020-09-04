@@ -9,10 +9,11 @@ Arlington Heights
 
 Temperature:
 
-|              | °C   | °F     | Date
-| :----------- | :--- | :---   | :----
-| **Low**      | 1.5  | 34.7   | May 27
-| **High**     | 36.67| 98.01  | Aug 10
+|              | °C    | °F     | Date
+| :----------- | :---  | :---   | :----
+| **Low**      | 1.5   | 34.7   | May 27
+| **High**     | 36.67 | 98.01  | Aug 10
+| **Mean**     | 21.69 | 70.88  |
 
 
 [Climate data (Download CSV)](data/climate.csv)

@@ -274,6 +274,19 @@ at the vein parallel to the edge of the wing.
 
 - [https://en.wikipedia.org/wiki/Monarch_butterfly](https://en.wikipedia.org/wiki/Monarch_butterfly)
 
+Males can be identified from females by looking for a spot on one
+of the veins.
+
+| male | female
+| :--- | :----
+| ![male monarch](https://upload.wikimedia.org/wikipedia/commons/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg) | ![female monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
+
+On the bottom wings of the male, there are black spots, but there are no spots on the female.
+
+| sightings  | count | sex | location
+| :--------- | :---- | :-- | :-------
+| 2020-09-05 | 1     | ?   | Backyard
+
 -------
 
 <div id="baltimore-oriole"></div>

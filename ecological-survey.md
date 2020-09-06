@@ -273,6 +273,7 @@ With the monarch on the left, and the viceroy on the right, one can tell the dif
 at the vein parallel to the edge of the wing.
 
 - [https://en.wikipedia.org/wiki/Monarch_butterfly](https://en.wikipedia.org/wiki/Monarch_butterfly)
+- [https://en.wikipedia.org/wiki/Viceroy_(butterfly)](https://en.wikipedia.org/wiki/Viceroy_(butterfly))
 
 Males can be identified from females by looking for a spot on one
 of the veins.

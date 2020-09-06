@@ -80,7 +80,7 @@ Animals
 <div id="black-swallowtail"></div>
 #### Black Swallowtail Butterfly
 
-![female black swallowtail](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pristine_Black_Swallowtail.jpg)
+[![female black swallowtail](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pristine_Black_Swallowtail.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Pristine_Black_Swallowtail.jpg)
 
 Beautiful little floating flower. Member of the swallowtail family, or [Papilionidae](https://en.wikipedia.org/wiki/Swallowtail_butterfly). Identified as a black swallowtail, but could also be a [spicebush swallowtail](https://en.wikipedia.org/wiki/Papilio_troilus).
 
@@ -98,7 +98,7 @@ Beautiful little floating flower. Member of the swallowtail family, or [Papilion
 
 <div id="bumble-bee"></div>
 
-![bumby](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)
+[![bumby](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)
 
 Half-inch to one inch long. Fuzzy bee.
 
@@ -109,7 +109,7 @@ Half-inch to one inch long. Fuzzy bee.
 <div id="eastern-carpenter-bee"></div>
 #### Eastern Carpenter Bee
 
-![carpenter](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carpenter_bee.jpg)
+[![carpenter](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carpenter_bee.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c3/Carpenter_bee.jpg)
 
 Big black rump, no stripes on it.
 
@@ -120,7 +120,7 @@ Big black rump, no stripes on it.
 <div id='western-honeybee'></div>
 #### Western Honeybee
 
-![fuzzy-buzzy](https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg)
+[![fuzzy-buzzy](https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg)
 
 A fuzzy-buzzy. Seen playing in the flowers, polinating and eating nectar. Smaller than honeybees;
 about a half-inch in length
@@ -132,7 +132,7 @@ about a half-inch in length
 <div id='paper-wasp'></div>
 #### Paper wasp
 
-![fuck-these-guys](https://upload.wikimedia.org/wikipedia/commons/5/5e/Polistes_dominula_nest_-_paper_wasps.jpg)
+[![fuck-these-guys](https://upload.wikimedia.org/wikipedia/commons/5/5e/Polistes_dominula_nest_-_paper_wasps.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5e/Polistes_dominula_nest_-_paper_wasps.jpg)
 
 Builds nests in upsided down overhangs. Eats wood from tables, chairs, trees, to make their nests.
 
@@ -143,7 +143,7 @@ Builds nests in upsided down overhangs. Eats wood from tables, chairs, trees, to
 <div id='yellowjacket'></div>
 #### Yellowjacket
 
-![yellow](https://upload.wikimedia.org/wikipedia/commons/9/93/European_wasp_white_bg.jpg)
+[![yellow](https://upload.wikimedia.org/wikipedia/commons/9/93/European_wasp_white_bg.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/93/European_wasp_white_bg.jpg)
 
 Aggressive and constructs paper nests. Can sting many times without losing its stinger.
 
@@ -154,7 +154,7 @@ Aggressive and constructs paper nests. Can sting many times without losing its s
 <div id="crayfish"></div>
 #### Crayfish
 
-![crayfish](https://upload.wikimedia.org/wikipedia/commons/3/3b/Austropotamobius_pallipes.jpg)
+[![crayfish](https://upload.wikimedia.org/wikipedia/commons/3/3b/Austropotamobius_pallipes.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/3b/Austropotamobius_pallipes.jpg)
 
 Found a single crayfish in McDonald Creek near my house while cleaning up garbage and litter.
 
@@ -167,7 +167,7 @@ Found a single crayfish in McDonald Creek near my house while cleaning up garbag
 <div id="canadian-goose"></div>
 #### Canadian Goose
 
-![goose](https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg)
+[![goose](https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg)
 
 Huge honker. Famalies starting to move south as the summer nears its end.
 
@@ -189,7 +189,7 @@ Huge honker. Famalies starting to move south as the summer nears its end.
 <div id="striped-skunk"></div>
 #### Striped skunk
 
-![https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg)
+[![https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg](https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0c/Striped_Skunk_%28Mephitis_mephitis%29_DSC_0030.jpg)
 
 Big stinker, seen in the evenings and at night.
 
@@ -202,10 +202,10 @@ Big stinker, seen in the evenings and at night.
 #### Northern Cardinal
 
 Male<br>
-![male](https://upload.wikimedia.org/wikipedia/commons/d/da/Cardinal.jpg) 
+[![male](https://upload.wikimedia.org/wikipedia/commons/d/da/Cardinal.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/da/Cardinal.jpg) 
 
 Female
-![female](https://upload.wikimedia.org/wikipedia/commons/f/f4/Cardinalis_cardinalis_-Florida%2C_USA_-female-8.jpg)
+[![female](https://upload.wikimedia.org/wikipedia/commons/f/f4/Cardinalis_cardinalis_-Florida%2C_USA_-female-8.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f4/Cardinalis_cardinalis_-Florida%2C_USA_-female-8.jpg)
 
 Common bird with a great whistle.
 
@@ -223,7 +223,7 @@ Common bird with a great whistle.
 <div id="american-robin"></div>
 #### American Robin
 
-![robin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Turdus-migratorius-002.jpg)
+[![robin](https://upload.wikimedia.org/wikipedia/commons/b/b8/Turdus-migratorius-002.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b8/Turdus-migratorius-002.jpg)
 
 Very common bird in the neighborhood in the spring and early summer. Not seen as much
 around now in August. Many different songs and calls.
@@ -243,7 +243,7 @@ around now in August. Many different songs and calls.
 <div id="american-gold-finch"></div>
 #### American Goldfinch
 
-![goldfinch](https://upload.wikimedia.org/wikipedia/commons/a/a0/Male_American_Goldfinch_in_Lodi_CA.JPG)
+[![goldfinch](https://upload.wikimedia.org/wikipedia/commons/a/a0/Male_American_Goldfinch_in_Lodi_CA.JPG)](https://upload.wikimedia.org/wikipedia/commons/a/a0/Male_American_Goldfinch_in_Lodi_CA.JPG)
 
 Seen mostly in the early evenings.
 
@@ -262,12 +262,12 @@ Seen mostly in the early evenings.
 <div id="monarch-butterfly"></div>
 #### Monarch Butterfly
 
-![monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
+[![monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
 
 (Female pictured) Similar looking to [Viceroy](https://en.wikipedia.org/wiki/Viceroy_(butterfly)) 
 butterflys, but can be distinguished by looking at the vein patterns. Notice here:
 
-![viceroy vs monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_Viceroy_Mimicry_Comparison.jpg)
+[![viceroy vs monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_Viceroy_Mimicry_Comparison.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_Viceroy_Mimicry_Comparison.jpg)
 
 With the monarch on the left, and the viceroy on the right, one can tell the difference by looking
 at the vein parallel to the edge of the wing.
@@ -279,7 +279,7 @@ of the veins.
 
 | male | female
 | :--- | :----
-| ![male monarch](https://upload.wikimedia.org/wikipedia/commons/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg) | ![female monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
+| [![male monarch](https://upload.wikimedia.org/wikipedia/commons/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg) | [![female monarch](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/63/Monarch_In_May.jpg)
 
 On the bottom wings of the male, there are black spots, but there are no spots on the female.
 
@@ -292,7 +292,7 @@ On the bottom wings of the male, there are black spots, but there are no spots o
 <div id="baltimore-oriole"></div>
 #### Baltimore Oriole
 
-![oriole](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)
+[![oriole](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f5/Baltimore_Oriole-_dorsum.jpg)
 Vibrant orange body with a striking black head and wings.
 Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbirds.
 
@@ -315,7 +315,7 @@ Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbi
 <div id="cotton-tailed-rabbit"></div>
 #### Eastern Cotton-tailed rabbit
 
-![cotton tail](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)
+[![cotton tail](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)](https://upload.wikimedia.org/wikipedia/commons/d/df/Eastern_Cottontail.JPG)
 
 A common friend around the neighborhood. Inquisitive and often hungry.
 
@@ -326,7 +326,7 @@ A common friend around the neighborhood. Inquisitive and often hungry.
 <div id="downy-woodpecker"></div>
 #### Downy Woodpecker
 
-![downy](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)
+[![downy](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c1/FemaleDownyWoodpecker.jpg)
 
 A beautiful woodpecker with many black and white striped designs, and pearl speckled wings.
 Males have red feathers on the top of their heads, females do not.
@@ -351,7 +351,7 @@ Males have red feathers on the top of their heads, females do not.
 <div id="red-tailed-hawk"></div>
 #### Red tailed Hawk
 
-![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
+[![Red-tailed hawk](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/51/Buteo_jamaicensis_-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-8.jpg)
 
 I've seen some hawks fly through the neighborhood every now and then. Identified
 as a red-tailed hawk since they are the most common it seems, but I am not sure.
@@ -372,7 +372,7 @@ as a red-tailed hawk since they are the most common it seems, but I am not sure.
 <div id="great-blue-heron"></div>
 #### Great blue Heron
 
-![Heron](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)
+[![Heron](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/67/GBHfish5.jpg)
 
 Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
 
@@ -401,7 +401,7 @@ Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
 
 | Male | Female
 | :--- | :------
-| ![Male](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg) | ![Female](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)
+| [![Male](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg) | [![Female](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)](https://upload.wikimedia.org/wikipedia/commons/d/db/Agelaius_phoeniceus2.jpg)
 
 Males are a jet black with striking orange and yellow shoulderblades. Females are brown with a grey and white head.
 Incredibly complicated tones, sounds like telephone bells. Members of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family
@@ -434,7 +434,7 @@ By August, the birds seem to have left from Mallards Bog
 
 | Female (left) Male (right) | Juveniles
 | :------------------------- | :--------
-| ![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | ![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
+| [![](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg) | [![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/ad/Anas_platyrhynchos_juvenile_JdP_2013-06-14_n01_retusche.jpg)
 
 These ducks maintain social structures at the bog. There are several 
 families living together
@@ -461,7 +461,7 @@ families living together
 <div id="blue-jay"></div>
 #### Blue Jay
 
-![Blue Jay](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)
+[![Blue Jay](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/Bluejay_%28Cyanocitta_cristata%29_%281547%29_-_Relic38.jpg)
 
 Sapphire blue bird. Mysterious and elusive in my neighborhood...
 
@@ -484,7 +484,7 @@ Sapphire blue bird. Mysterious and elusive in my neighborhood...
 <div id="sleepy-orange"></div>
 #### Sleepy Orange Butterfly
 
-![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
+[![Sleepy Orange](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/30/Sleepy_Orange%2C_Megan_McCarty47.jpg)
 
 I'm not sure if this is exactly the species but there was one that looked similar
 
@@ -500,7 +500,7 @@ I'm not sure if this is exactly the species but there was one that looked simila
 <div id="blue-dasher"></div>
 #### Blue Dasher
 
-![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
+[![blue dasher](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)](https://upload.wikimedia.org/wikipedia/commons/8/8d/Pachydiplax_longipennis_Blue_Dasher_1500px.jpg)
 
 Very vibrant, almost reflective like a saphire crystal.
 
@@ -516,7 +516,7 @@ Very vibrant, almost reflective like a saphire crystal.
 <div id="painted-turtle"></div>
 #### Painted Turtle
 
-![Painted Turtle](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)
+[![Painted Turtle](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/43/Painted_Turtle_%2814541060047%29.jpg)
 
 - [https://en.wikipedia.org/wiki/Painted_turtle](https://en.wikipedia.org/wiki/Painted_turtle)
 

@@ -284,9 +284,11 @@ of the veins.
 
 On the bottom wings of the male, there are black spots, but there are no spots on the female.
 
-| sightings  | count | sex | location
-| :--------- | :---- | :-- | :-------
-| 2020-09-05 | 1     | ?   | Backyard
+| sightings  | count | location
+| :--------- | :---- | :-------
+| 2020-09-05 | 1     | Backyard
+| 2020-09-06 | 2     | Backyard
+| 2020-09-07 | 1     | Backyard
 
 -------
 

@@ -25,6 +25,7 @@ Temperature:
 - [Biodiversity of Illinois - Education](https://www2.illinois.gov/dnr/education/Pages/Biodiversity-of-Illinois.aspx)
 - [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
 - [DuPage Birding Club](https://dupagebirding.org/wp-content/uploads/2020/06/2020_DuPage_Checklist-Combined-3.pdf)
+- [Native Plant Species for Arlington Heights](https://www.audubon.org/native-plants/search?zipcode=60004&active_tab=best_results&attribute=&attribute_tier1=&resource=&resource_tier1=&bird_type=&bird_type_tier1=&page=1&page_tier1=1)
 - [Invasive Species of Illinois](https://www.invasive.org/illinois/SpeciesofConcern.html)
 - [Water table](https://cida.usgs.gov/ngwmn/provider/ISWS/site/P406788/)
 

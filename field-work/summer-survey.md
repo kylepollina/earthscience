@@ -1,4 +1,3 @@
-
 # Ecological Survey - Summer 2020
 
 Ecological survey for Arlington Heights Illinois. All images taken off wikipedia.

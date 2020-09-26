@@ -6,7 +6,8 @@
 [Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/resources.md)
 
 ### Field Work
-- [Arlington Heights Ecological Survey 2020](https://kylepollina.github.io/earthscience/field-work/summer-survey.html)
+- [Arlington Heights Ecological Survey Fall 2020](https://kylepollina.github.io/earthscience/field-work/fall-survey.html)
+- [Arlington Heights Ecological Survey Summer 2020](https://kylepollina.github.io/earthscience/field-work/summer-survey.html)
 
 
 ### Jupyter Notebooks

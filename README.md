@@ -3,11 +3,12 @@
 
 ## Research
 
-[Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/resources.md)
+- [Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/resources.md)
+- [Life Under the Waves](https://kylepollina.github.io/earthscience/research/life-under-the-waves.html)
 
 ### Field Work
-- [Arlington Heights Ecological Survey Fall 2020](https://kylepollina.github.io/earthscience/field-work/fall-survey.html)
 - [Arlington Heights Ecological Survey Summer 2020](https://kylepollina.github.io/earthscience/field-work/summer-survey.html)
+- [Arlington Heights Ecological Survey Fall 2020](https://kylepollina.github.io/earthscience/field-work/fall-survey.html)
 
 
 ### Jupyter Notebooks

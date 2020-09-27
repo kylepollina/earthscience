@@ -22,7 +22,7 @@ hr      {color: rgb(255, 255, 255);}
 
 #main    {margin-top: 60px;}
 #footer  {text-align: center;}
-#content {float: left;  width: calc(100% - var(--nav-width));  height: 100%;  margin-left: var(--nav-width);  padding-top: 0px;  padding-bottom: 40px;}
+#content {float: left;  width: calc(100% - var(--nav-width));  height: 100%;  margin-left: calc(var(--nav-width) + 20px);  padding-top: 0px;  padding-bottom: 40px;}
 #content img {width: 100%}
 
 #nav    {position: fixed;  float: left;}

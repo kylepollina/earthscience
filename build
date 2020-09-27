@@ -1,0 +1,12 @@
+embedmd templates/index-template.html > index.html
+
+embedmd templates/summer-survey-template.html > tmp
+jinja -D current_page earthscience -D title "summer 2020" tmp > field-work/summer-survey.html
+
+embedmd templates/fall-survey-template.html > tmp
+jinja -D current_page earthscience -D title "fall 2020" tmp > field-work/fall-survey.html
+
+embedmd templates/life-under-the-waves-template.html > tmp
+jinja -D current_page earthscience -D title "Cool Life" tmp > research/life-under-the-waves.html
+
+rm tmp

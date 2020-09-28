@@ -97,6 +97,7 @@ Beautiful little floating flower. Member of the swallowtail family, or [Papilion
 - [Identifying bees/wasps in Illinois](https://www.dph.illinois.gov/topics-services/environmental-health-protection/structural-pest-control/bees-wasps)
 
 <div id="bumble-bee"></div>
+#### Bumble Bee
 
 [![bumby](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bumblebee_October_2007-3a.jpg)
 

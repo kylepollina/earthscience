@@ -36,6 +36,16 @@ Temperature:
 
 ![chicka-dee-dee-dee](https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg)
 
-[https://ebird.org/species/bkcchi](https://ebird.org/species/bkcchi)
+- [https://ebird.org/species/bkcchi](https://ebird.org/species/bkcchi)
+- [https://en.wikipedia.org/wiki/Black-capped_chickadee](https://en.wikipedia.org/wiki/Black-capped_chickadee)
 
+**eBird Abundance Map**
+<video width="640" height="480" controls>
+   <source src="videos/bkcchi-abundance-map-weekly-2019-en.mp4" type="video/mp4">
+</video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/54840711/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
+
+**Fermilab Data**
+![Fermilab](https://www.fnal.gov/cgi-bin/ecology/wildlife/bigbar?Black-capped+Chickadee)

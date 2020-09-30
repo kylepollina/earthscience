@@ -179,7 +179,7 @@ Huge honker. Famalies starting to move south as the summer nears its end.
 | :---------- | :---- |
 |  2020-08-22 | 8     |
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/cangoo-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -213,9 +213,13 @@ Common bird with a great whistle.
 - [https://ebird.org/species/norcar](https://ebird.org/species/norcar)
 - [https://en.wikipedia.org/wiki/Northern_cardinal](https://en.wikipedia.org/wiki/Northern_cardinal)
 
-<video width="700" height="525" controls>
+**eBird Abundance Map**
+<video width="640" height="480" controls>
    <source src="videos/norcar-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
+
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/84706/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Norther Cardinal Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/norcar)
 
@@ -232,7 +236,7 @@ around now in August. Many different songs and calls.
 - [https://ebird.org/species/amerob](https://ebird.org/species/amerob)
 - [https://en.wikipedia.org/wiki/American_robin](https://en.wikipedia.org/wiki/American_robin)
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/amerob-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -251,7 +255,7 @@ Seen mostly in the early evenings.
 - [https://ebird.org/species/amegfi](https://ebird.org/species/amegfi)
 - [https://en.wikipedia.org/wiki/American_goldfinch](https://en.wikipedia.org/wiki/American_goldfinch)
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/amegfi-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -308,7 +312,7 @@ Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbi
 | 2020-08-17 | 1     | M   | Backyard
 | 2020-08-29 | 1     | M   | Northbrook IL
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/balori-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -343,7 +347,7 @@ Males have red feathers on the top of their heads, females do not.
 |  2020-08-17 | 1     | F   | Backyard
 
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/dowwoo-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -364,7 +368,7 @@ as a red-tailed hawk since they are the most common it seems, but I am not sure.
 - [https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
 
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/rethaw-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -390,7 +394,7 @@ Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
 |  2020-07-12 | 1     | Mallards Bog
 
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/grbher3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -424,7 +428,7 @@ Incredibly complicated tones, sounds like telephone bells. Members of the [Icter
 By August, the birds seem to have left from Mallards Bog
 
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/rewbla-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -453,7 +457,7 @@ families living together
 | Mallards Bog | 24+
 
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/mallar3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
@@ -477,7 +481,7 @@ Sapphire blue bird. Mysterious and elusive in my neighborhood...
 | :--------- | :---- | :-------
 | 2020-07-06 | 1     | Golf Club
 
-<video width="700" height="525" controls>
+<video width="640" height="480" controls>
    <source src="videos/blujay-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 

@@ -219,7 +219,7 @@ Common bird with a great whistle.
 </video>
 
 **eBird Recording**
-<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/84706/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/176241/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Norther Cardinal Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/norcar)
 
@@ -236,9 +236,13 @@ around now in August. Many different songs and calls.
 - [https://ebird.org/species/amerob](https://ebird.org/species/amerob)
 - [https://en.wikipedia.org/wiki/American_robin](https://en.wikipedia.org/wiki/American_robin)
 
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/amerob-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
+
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/94261/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [American Robin Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/amerob)
 
@@ -255,10 +259,13 @@ Seen mostly in the early evenings.
 - [https://ebird.org/species/amegfi](https://ebird.org/species/amegfi)
 - [https://en.wikipedia.org/wiki/American_goldfinch](https://en.wikipedia.org/wiki/American_goldfinch)
 
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/amegfi-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/94300/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [American Goldfinch Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/amegfi)
 
@@ -312,9 +319,13 @@ Member of the [Icterid](https://en.wikipedia.org/wiki/Icterid) family of blackbi
 | 2020-08-17 | 1     | M   | Backyard
 | 2020-08-29 | 1     | M   | Northbrook IL
 
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/balori-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
+
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/113501/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Baltimore Oriole Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/balori)
 
@@ -347,9 +358,15 @@ Males have red feathers on the top of their heads, females do not.
 |  2020-08-17 | 1     | F   | Backyard
 
 
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/dowwoo-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
+
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/94232/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
+
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/107289/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 
 [Downy Woodpecker Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/dowwoo)
@@ -367,11 +384,13 @@ as a red-tailed hawk since they are the most common it seems, but I am not sure.
 - [https://ebird.org/species/rethaw/](https://ebird.org/species/rethaw/)
 - [https://en.wikipedia.org/wiki/Red-tailed_hawk](https://en.wikipedia.org/wiki/Red-tailed_hawk)
 
-
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/rethaw-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/31533301/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Red-tailed Hawk Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/rethaw)
 
@@ -393,11 +412,13 @@ Wades on the shallow end of the bog, feeds on small fish. Quiet and lonesome.
 |  2020-06-27 | 1     | Buffalo Creek
 |  2020-07-12 | 1     | Mallards Bog
 
-
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/grbher3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/92488041/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Great Blue Heron Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/grbher3)
 
@@ -427,11 +448,13 @@ Incredibly complicated tones, sounds like telephone bells. Members of the [Icter
 
 By August, the birds seem to have left from Mallards Bog
 
-
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/rewbla-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/110263341/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Red-winged Blackbird Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/rewbla)
 
@@ -456,11 +479,13 @@ families living together
 | :-------    | :----
 | Mallards Bog | 24+
 
-
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/mallar3-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
 
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/88306211/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Mallard Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/mallar3)
 
@@ -481,9 +506,13 @@ Sapphire blue bird. Mysterious and elusive in my neighborhood...
 | :--------- | :---- | :-------
 | 2020-07-06 | 1     | Golf Club
 
+**eBird Abundance Map**
 <video width="640" height="480" controls>
    <source src="videos/blujay-abundance-map-weekly-2019-en.mp4" type="video/mp4">
 </video>
+
+**eBird Recording**
+<iframe width="640" height="360" src="https://macaulaylibrary.org/asset/173749/embed/640" frameborder="0" allowfullscreen style="width:640px;"></iframe>
 
 [Blue Jay Status & Trends - eBird.org](https://ebird.org/science/status-and-trends/blujay)
 

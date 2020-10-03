@@ -3,7 +3,7 @@
 
 ## Research
 
-- [Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/resources.md)
+- [Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/research/resources.md)
 - [Life Under the Waves](https://kylepollina.github.io/earthscience/research/life-under-the-waves.html)
 
 ### Field Work

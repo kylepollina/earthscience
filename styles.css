@@ -13,8 +13,9 @@ td   {padding-right: .5em}
 body {height: 100%;  margin: 0px;  background: rgb(255, 255, 255);  font-family: "Pitch Medium Italic";  font-size: 12pt;}
 h4   {text-decoration: underline;}
 
-#container {width: 800px;  margin: auto;}
-#header    {top: 0;  position: fixed;  overflow: hidden;  padding-top: 20px;  padding-bottom: 20px;}
+#container      {width: 800px;  margin: auto; margin-top: -50px /* move the top closer to the true top of the page */}
+#container #nav {margin-top: 50px}
+#header         {top: 0;  position: fixed;  overflow: hidden;  padding-top: 20px;  padding-bottom: 20px;}
 
 a       {text-decoration: none;  color: #CE2029;}
 a:hover {text-decoration: underline;}

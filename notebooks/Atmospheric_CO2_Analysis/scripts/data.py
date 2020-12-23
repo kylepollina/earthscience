@@ -1,30 +1,28 @@
-# scripts/data.py
+# Atmospheric_CO2_Analysis/scripts/data.py
 
+from pathlib import Path
 import pandas as pd
 
-def mlo():
-    try:
-        with open('data/processed/mlo_co2.csv') as mlo:
-            return pd.read_csv(mlo)
-    except FileNotFoundError as e:
-        print(e)
-        print("Run scripts.preprocess.process_all_data() first.")
+from .preprocess import process_mlo_data
 
 
-def ucsd():
-    try:
-        with open('data/processed/ucsd_co2.csv') as ucsd:
-            return pd.read_csv(ucsd)
-    except FileNotFoundError as e:
-        print(e)
-        print("Run scripts.preprocess.process_all_data() first.")
+def get_mlo_data():
+    mlo_path = 'data_acda/processed/mlo_co2.csv'
+    if not Path(mlo_path).exists():
+        process_mlo_data()
+
+    with open(mlo_path) as mlo:
+        return pd.read_csv(mlo)
+
+
 
 def uc_san_diego_original():
-    return pandas.read_csv('data/raw/CarbonDioxide.csv')
+    return pandas.read_csv('data_acda/raw/CarbonDioxide.csv')
+
 
 def co2_global():
     try:
-        with open('data/processed/co2_global.csv') as co2_global:
+        with open('data_acda/processed/co2_global.csv') as co2_global:
             return pd.read_csv(co2_global)
     except FileNotFoundError as e:
         print(e)

@@ -1810,6 +1810,28 @@ checklist_data = {
         "male": "",
         "female": "",
     },
+    "Red Crossbill": {
+        "abundance": "URX---R",
+        "allaboutbirds": "https://www.allaboutbirds.org/guide/Red_Crossbill/id#",
+        "migration": "https://www.allaboutbirds.org/guide/assets/photo/32257131-1280px.jpg",
+        "recording": "https://macaulaylibrary.org/audio/34743",
+        "ebird": "https://ebird.org/species/redcro/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Red_crossbill",
+        "img": "",
+        "male": "https://upload.wikimedia.org/wikipedia/commons/4/49/Red_Crossbills_%28Male%29.jpg",
+        "female": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Red_Crossbill_%28Female%29.jpg",
+    },
+    "White-winged Crossbill": {
+        "abundance": "UR-----",
+        "allaboutbirds": "",
+        "migration": "",
+        "recording": "",
+        "ebird": "",
+        "wikipedia": "",
+        "img": "",
+        "male": "",
+        "female": "",
+    },
 }
 
 

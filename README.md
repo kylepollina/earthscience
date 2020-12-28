@@ -20,14 +20,3 @@
 ### Tools
 
 - [topo2geo](https://github.com/kylepollina/topo2geo) - CLI for converting topoJSON to geoJSON
-
-
--------
-
-## Resources
-
-### Links
-
-- [A Citizens' Guide to Monitoring Lakes and Streams [PDF]](https://fortress.wa.gov/ecy/publications/documents/94149.pdf)
-- [How to Help Birds at Home - Birdnote](https://www.birdnote.org/how-help-birds/home)
-- [Introduction to geospatial vector data in Python](https://nbviewer.jupyter.org/github/ThomasatTUC/Geo-Data-Science/blob/master/Using%20Geo%20Data%20in%20Python.ipynb)

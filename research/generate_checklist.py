@@ -118,7 +118,7 @@ checklist_data = {
         "recording": "https://macaulaylibrary.org/asset/88306211/embed/640"
     },
     "American Black Duck": {
-        "abundance": "FFRXXU",
+        "abundance": "FFR-XXU",
         "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Anas_Rubripes_and_Anas_Platyrhynchos_August_2008.JPG",
         "ebird": "https://ebird.org/species/ambduc/",
         "wikipedia": "https://en.wikipedia.org/wiki/American_black_duck",
@@ -480,7 +480,7 @@ checklist_data = {
         "recording": "https://macaulaylibrary.org/asset/50264"
     },
     "Black-bellied Plover": {
-        "abundance": "--R-UU",
+        "abundance": "--R-UU-",
         "wikipedia": "https://en.wikipedia.org/wiki/Grey_plover",
         "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Pluvialis_squatarola_%28summer_plumage%29.jpg",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Black-bellied_Plover/overview",
@@ -489,7 +489,7 @@ checklist_data = {
         "recording": "https://macaulaylibrary.org/asset/167886311"
     },
     "American Golden-Plover": {
-        "abundance": "--R-XR",
+        "abundance": "--R-XR-",
         "wikipedia": "https://en.wikipedia.org/wiki/American_golden_plover",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Pluvialis_dominica1.jpg",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/American_Golden-Plover/overview",
@@ -543,7 +543,7 @@ checklist_data = {
         "recording": "https://macaulaylibrary.org/asset/203928881"
     },
     "Baird's Sandpiper": {
-        "abundance": "--RRR-",
+        "abundance": "--R-RR-",
         "wikipedia": "https://en.wikipedia.org/wiki/Baird's_sandpiper",
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Calidris_bairdii_-Gullbringusysla%2C_Iceland-8.jpg",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Bairds_Sandpiper/overview",
@@ -1446,7 +1446,7 @@ checklist_data = {
         "tags": "sounds like r2d2"
     },
     "Tree Swallow": {
-        "abundance": "-CCCFFR-",
+        "abundance": "-CCCFFR",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Tree_Swallow/id",
         "migration": "https://www.allaboutbirds.org/guide/assets/photo/25038971-1280px.jpg",
         "recording": "https://macaulaylibrary.org/audio/136400",
@@ -2042,7 +2042,7 @@ checklist_data = {
         "female": "",
     },
     "Henslow's Sparrow": {
-        "abundance": "-FFFR-",
+        "abundance": "--FFFR-",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Henslows_Sparrow/id",
         "migration": "https://www.allaboutbirds.org/guide/assets/photo/32311481-1280px.jpg",
         "recording": "https://macaulaylibrary.org/audio/113521",
@@ -2372,7 +2372,7 @@ checklist_data = {
         "female": "",
     },
     "Kentucky Warbler": {
-        "abundance": "--RX----",
+        "abundance": "--RX---",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Kentucky_Warbler/id",
         "migration": "https://www.allaboutbirds.org/guide/assets/photo/32314091-1280px.jpg",
         "recording": "https://macaulaylibrary.org/audio/73967",
@@ -2625,7 +2625,7 @@ checklist_data = {
         "female": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Female_Summer_Tanager_%287093902581%29.jpg",
     },
     "Scarlet Tanager": {
-        "abundance": "FRRUR",
+        "abundance": "--FRRUR",
         "allaboutbirds": "https://www.allaboutbirds.org/guide/Scarlet_Tanager/id",
         "migration": "https://www.allaboutbirds.org/guide/assets/photo/32252581-1280px.jpg",
         "recording": "https://macaulaylibrary.org/audio/85102",

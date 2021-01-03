@@ -15,7 +15,6 @@
 - [Atmospheric Carbon Dioxide Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Atmospheric_CO2_Analysis/Atmospheric%20Carbon%20Dioxide%20Analysis.ipynb) - Analysis of Mauna Loa carbon dioxide data from 1958-2019
 - [Earth Surface Temperature Analysis](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Surface_Temperature_Analysis/Earth%20Surface%20Temperature%20Analysis.ipynb) - Analysis of global temperature data from 1760s through 2013
 - [Fracking and Oklahoma Earthquakes](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Fracking_and_Oklahoma_Quakes/Fracking_and_Oklahoma_Quakes%20main.ipynb) - (In progress) look at Oil wells drilled and earthquake data
-- [Hurricane Katrina Affected States](https://nbviewer.jupyter.org/github/kylepollina/earthscience/blob/master/notebooks/Hurricane%20Katrina/hurricane_katrina.ipynb) - Notebooks from [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) example galleries examining the path of Hurricane Katrina
 
 ### Tools
 

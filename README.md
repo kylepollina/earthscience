@@ -4,6 +4,7 @@
 ## Research
 
 - [Datasets and other resources](https://github.com/kylepollina/earthscience/blob/master/research/resources.md)
+- [Dupage Birding Club Visual Checklist](https://kylepollina.github.io/earthscience/dbc-checklist/winter/common.html)
 - [Life Under the Waves](https://kylepollina.github.io/earthscience/research/life-under-the-waves.html)
 
 ### Field Work

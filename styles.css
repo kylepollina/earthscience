@@ -33,6 +33,8 @@ hr      {color: rgb(255, 255, 255);}
 #posts              {display: block;  margin-left: 20px;}
 #posts a            {color: #CE2029;  text-indent: -3em;}
 #posts a:hover      {color: #CE2029;}
+#posts summary        {color: #CE2029;}
+#posts summary:hover  {text-decoration: underline; cursor: pointer}
 #posts img          {width: 90%;}
 #posts .description {padding-left: 20px;}
 
